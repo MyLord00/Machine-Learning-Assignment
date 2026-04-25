@@ -1,4 +1,4 @@
-# 📚 Machine Learning — Semester 6
+# Machine Learning — Semester 6
 
 Repositori ini berisi kumpulan tugas mata kuliah **Machine Learning** selama **Semester 6**.
 
@@ -16,7 +16,7 @@ Repositori ini berisi kumpulan tugas mata kuliah **Machine Learning** selama **S
 
 ---
 
-## 📝 Daftar Tugas
+## Daftar Tugas
 
 ### Week 1
 | File | Topik |
