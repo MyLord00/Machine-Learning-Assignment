@@ -4,7 +4,7 @@ Repositori ini berisi kumpulan tugas mata kuliah **Machine Learning** selama **S
 
 ---
 
-## 👤 Identitas Mahasiswa
+## Identitas Mahasiswa
 
 | Keterangan | Detail |
 |---|---|
